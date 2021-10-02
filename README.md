@@ -1,4 +1,4 @@
-# TTM-2
+# TTM-2 by Bipul Harsh
 
 <img src="Pics/hi.png">
 
